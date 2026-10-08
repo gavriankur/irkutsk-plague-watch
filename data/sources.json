@@ -1,0 +1,74 @@
+{
+  "checked_at": "2026-10-08T07:30:13+00:00",
+  "reports": [
+    {
+      "url": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/russia",
+      "agency": "CDC",
+      "title": "Russia - Traveler view | Travelers' Health | CDC",
+      "quote": "A death due to pneumonia, suspected to be caused by pneumonic plague , has been reported in Shelekhov, Russia. Travelers to the area should avoid \u2026",
+      "content_hash": "29a7f2e2f8cf1cf3ab5c929fb2c78b1a6eb1bcf697c17a8ea3887d62f5ad34bc",
+      "checked_at": "2026-10-08T07:30:13+00:00",
+      "changed_at": "2026-10-08T07:29:26+00:00",
+      "available": true,
+      "relevant_notice_present": true
+    },
+    {
+      "url": "https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-media-briefing---7-october-2026",
+      "agency": "WHO",
+      "title": "WHO Director-General's opening remarks at the media briefing \u2013 7 October 2026",
+      "quote": "Last Friday, the 2nd of October, the first media reports emerged of a suspected case of pneumonic plague in a laboratory worker at the Irkutsk \u2026",
+      "content_hash": "0882f5dcdda8bf19a956e8f2c09ef4b402e2d392571f0fab1f605f6c5d0303b5",
+      "checked_at": "2026-10-08T07:30:13+00:00",
+      "changed_at": "2026-10-08T07:26:21+00:00",
+      "available": true,
+      "relevant_notice_present": true
+    }
+  ],
+  "checks": [
+    {
+      "url": "https://www.who.int/news-room/speeches",
+      "ok": true,
+      "checked_at": "2026-10-08T07:30:13+00:00"
+    },
+    {
+      "url": "https://www.who.int/news",
+      "ok": true,
+      "checked_at": "2026-10-08T07:30:13+00:00"
+    },
+    {
+      "url": "https://www.who.int/emergencies/disease-outbreak-news",
+      "ok": true,
+      "checked_at": "2026-10-08T07:30:13+00:00"
+    },
+    {
+      "url": "https://wwwnc.cdc.gov/travel/notices",
+      "ok": true,
+      "checked_at": "2026-10-08T07:30:13+00:00"
+    },
+    {
+      "url": "https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-media-briefing---2-september-2026",
+      "ok": true,
+      "checked_at": "2026-10-08T07:30:13+00:00"
+    },
+    {
+      "url": "https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-media-briefing---7-october-2026",
+      "ok": true,
+      "checked_at": "2026-10-08T07:30:13+00:00"
+    },
+    {
+      "url": "https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-media-briefing-16-september-2026",
+      "ok": true,
+      "checked_at": "2026-10-08T07:30:13+00:00"
+    },
+    {
+      "url": "https://www.who.int/news-room/speeches/item/who-director-general-s-remarks-at-the-media-briefing-on-the-high-level-meeting-on-pandemic-prevention--preparedness-and-response---25-september-2026",
+      "ok": true,
+      "checked_at": "2026-10-08T07:30:13+00:00"
+    },
+    {
+      "url": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/russia",
+      "ok": true,
+      "checked_at": "2026-10-08T07:30:13+00:00"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "reviewed_at": "2026-10-08",
+  "statement_date": "2026-10-07",
+  "location": "Irkutsk area, Russia",
+  "longitude": 104.2798,
+  "latitude": 52.2891,
+  "reported_fatal_pneumonia_incidents": 1,
+  "confirmed_plague_cases": null,
+  "status": "Plague unconfirmed in reviewed reports",
+  "note": "Russia reported no recent plague cases in Irkutsk to WHO. A second pneumonia report remained unverified in the 7 October WHO statement. Approximately 200 quarantined contacts are not case counts.",
+  "approved_source_hashes": {
+    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/russia": "29a7f2e2f8cf1cf3ab5c929fb2c78b1a6eb1bcf697c17a8ea3887d62f5ad34bc",
+    "https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-media-briefing---7-october-2026": "0882f5dcdda8bf19a956e8f2c09ef4b402e2d392571f0fab1f605f6c5d0303b5"
+  }
+}
